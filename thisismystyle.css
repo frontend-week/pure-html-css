@@ -1,0 +1,23 @@
+body {
+    background-color: lemonchiffon;
+}
+h1 {
+    color: maroon;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    text-align: center;
+}
+p {
+    color: midnightblue;
+    font-size: medium;
+    font-weight: 200;
+}
+ul {
+    color: midnightblue;
+    font-size: small;
+    font-weight: 100;
+}
+@keyframes p {
+    from {background-color: red;}
+    to {background-color: yellow;}
+}
